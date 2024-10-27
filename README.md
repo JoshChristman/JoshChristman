@@ -1,37 +1,31 @@
 <h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">System Administrator</a>, <a href="https://www.linkedin.com/in/joshua-christman-ak//">
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Home Lab Projects:</h2>
 
 - <b>Travel Router/Mobile Home Lab</b>
   - [Hardware](https://github.com/joshmadakor1/Algorithms-Practice)
-  - 
-- <b>Proxmox</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Proxmox](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [OpenWRT](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Linux Server](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Ubiquiti Home Network/Security</b>
+  - [Hardware](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Network](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Firewall and Vlans](https://github.com/joshmadakor1/AD_PS)
+  - [Security](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
 <h2>Certifications</h2>
 
-- [Comptia Linux +](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Comptia Server +](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Comptia Security +](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Comptia Network +](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Comptia A +](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Comptia Linux +](https://www.certmetrics.com/comptia/public/verification.aspx?code=CWC2VXQVL79LFS9L)
+- [Comptia Server +](https://www.certmetrics.com/comptia/public/verification.aspx?code=K0KVGCJ8BVPPFB97)
+- [Comptia Security +](https://www.certmetrics.com/comptia/public/verification.aspx?code=JXPSWNKV3V56VWWB)
+- [Comptia Network +](https://www.certmetrics.com/comptia/public/verification.aspx?code=1YBDGV50E4KPVHGQ)
+- [Comptia A +](https://www.certmetrics.com/comptia/public/verification.aspx?code=3646TWL83Q3PV35T)
+- [AWS Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/HKTSPSDBFERQQYSG)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Joshchristman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/joshmadakor
-
+[linkedin]: https://www.linkedin.com/in/joshua-christman-ak/
 
 <!--
 **JoshChristman/JoshChristman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
