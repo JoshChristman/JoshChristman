@@ -2,10 +2,10 @@
 <h2>👨‍💻 Home Lab Projects:</h2>
 
 - <b>Travel Router/Mobile Home Lab</b>
-  - [Hardware](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Proxmox](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [OpenWRT](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Linux Server](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Hardware](https://github.com/JoshChristman/MobileHomeLab?tab=readme-ov-file)
+  - [Proxmox](https://github.com/JoshChristman/MobileHomeLab?tab=readme-ov-file)
+  - [OpenWRT](https://github.com/JoshChristman/MobileHomeLab?tab=readme-ov-file)
+  - [Linux Server](https://github.com/JoshChristman/MobileHomeLab?tab=readme-ov-file)
 - <b>Ubiquiti Home Network/Security</b>
   - [Hardware](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Network](https://github.com/joshmadakor1/Jwipe.PowerShell)
