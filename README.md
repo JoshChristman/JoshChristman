@@ -3,7 +3,7 @@
 <h2>👨‍💻 Home Lab Projects:</h2>
 
 - <b>[Travel Router/Mobile Home Lab](https://github.com/JoshChristman/MobileHomeLab?tab=readme-ov-file)</b>
-  - Hardware
+  - [Hardware](https://github.com/JoshChristman/MobileHomeLab/blob/main/README.md#%EF%B8%8F-hardware)
   - Proxmox
   - OpenWRT
   - Linux Server
