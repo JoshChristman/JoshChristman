@@ -8,11 +8,11 @@
   - OpenWRT
   - Linux Server
   - Docker
-- <b>Ubiquiti Home Network/Security</b>
-  - [Hardware]()
-  - [Network]()
-  - [Firewall and Vlans]()
-  - [Security]()
+- <b>[Ubiquiti Home Network/Security]()</b>
+  - Hardware
+  - Network
+  - Firewall and Vlans
+  - Security
 
 <h2>Certifications</h2>
 
