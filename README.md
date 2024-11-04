@@ -4,7 +4,7 @@
 
 - <b>[Travel Router/Mobile Home Lab](https://github.com/JoshChristman/MobileHomeLab?tab=readme-ov-file)</b>
   - [Hardware](https://github.com/JoshChristman/MobileHomeLab/blob/main/README.md#%EF%B8%8F-hardware)
-  - Proxmox
+  - [Proxmox](https://github.com/JoshChristman/MobileHomeLab/blob/main/README.md#-proxmox)
   - OpenWRT
   - Linux Server
   - Docker
