@@ -5,7 +5,7 @@
 - <b>[Travel Router/Mobile Home Lab](https://github.com/JoshChristman/MobileHomeLab?tab=readme-ov-file)</b>
   - [Hardware](https://github.com/JoshChristman/MobileHomeLab/blob/main/README.md#%EF%B8%8F-hardware)
   - [Proxmox](https://github.com/JoshChristman/MobileHomeLab/blob/main/README.md#-proxmox)
-  - OpenWRT
+  - [OpenWRT](https://github.com/JoshChristman/MobileHomeLab/blob/main/README.md#-openwrt)
   - Linux Server
   - Docker
 - <b>[Ubiquiti Home Network/Security]()</b>
