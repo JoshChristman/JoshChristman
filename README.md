@@ -6,7 +6,7 @@
   - [Hardware](https://github.com/JoshChristman/MobileHomeLab/blob/main/README.md#%EF%B8%8F-hardware)
   - [Proxmox](https://github.com/JoshChristman/MobileHomeLab/blob/main/README.md#-proxmox)
   - [OpenWRT](https://github.com/JoshChristman/MobileHomeLab/blob/main/README.md#-openwrt)
-  - Linux Server
+  - [Linux Server](https://github.com/JoshChristman/MobileHomeLab/blob/main/README.md#%EF%B8%8F-ubuntu-linux-server)
   - Docker
 - <b>[Ubiquiti Home Network/Security]()</b>
   - Hardware
