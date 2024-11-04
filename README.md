@@ -1,16 +1,16 @@
 <h1>Hi, I'm Josh! <br/><a href="https://github.com/JoshChristman">System Administrator</a>, <a href="https://www.linkedin.com/in/joshua-christman-ak//">
 <h2>👨‍💻 Home Lab Projects:</h2>
 
-- <b>Travel Router/Mobile Home Lab</b>
-  - [Hardware](https://github.com/JoshChristman/MobileHomeLab?tab=readme-ov-file)
-  - [Proxmox](https://github.com/JoshChristman/MobileHomeLab?tab=readme-ov-file)
-  - [OpenWRT](https://github.com/JoshChristman/MobileHomeLab?tab=readme-ov-file)
-  - [Linux Server](https://github.com/JoshChristman/MobileHomeLab?tab=readme-ov-file)
+- <b>[Travel Router/Mobile Home Lab](https://github.com/JoshChristman/MobileHomeLab?tab=readme-ov-file)</b>
+  - Hardware
+  - Proxmox
+  - OpenWRT
+  - Linux Server
 - <b>Ubiquiti Home Network/Security</b>
-  - [Hardware](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Network](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Firewall and Vlans](https://github.com/joshmadakor1/AD_PS)
-  - [Security](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Hardware]()
+  - [Network]()
+  - [Firewall and Vlans]()
+  - [Security]()
 
 <h2>Certifications</h2>
 
