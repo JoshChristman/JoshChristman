@@ -1,4 +1,5 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/JoshChristman">System Administrator</a>, <a href="https://www.linkedin.com/in/joshua-christman-ak//">
+<h1>Hi, I'm Josh! <br/><a href="https://www.linkedin.com/in/joshua-christman-ak//">System Administrator</a>
+  
 <h2>👨‍💻 Home Lab Projects:</h2>
 
 - <b>[Travel Router/Mobile Home Lab](https://github.com/JoshChristman/MobileHomeLab?tab=readme-ov-file)</b>
