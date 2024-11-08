@@ -11,7 +11,7 @@
     - **OpenWRT:** Custom router configuration with network segmentation and secure connectivity.
     - **Linux Server & Docker:** Hosting services and containers for seamless lab scalability.
 
-- <b>[Ubiquiti Home Network/Security](https://github.com/JoshChristman/UbiquitiHomeNetwork/blob/main/README.md)</b>
+- <b>[Ubiquiti Home Network/Security](https://github.com/JoshChristman/UbiquitiHomeNetwork)</b>
   - Engineered a secure, segmented home network with:
     - **Hardware & Network:** Integrated Ubiquiti devices for optimized performance and visibility.
     - **Firewall and VLANs:** Implemented multiple VLANs for device isolation and security.
