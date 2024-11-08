@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://www.linkedin.com/in/joshua-christman-ak//">Systems Administrator and IT Enthusiast </a></h1>
+<h1>Hi, I'm Josh! <br/><a href="https://www.linkedin.com/in/joshua-christman-ak//">Systems Administrator </a></h1>
 
 <p>Experienced Systems Administrator with a focus on network security, virtualization, and home lab setups. Currently seeking new opportunities where I can leverage my technical expertise and hands-on project experience to enhance IT infrastructure and security. Explore my home lab projects and certifications below to see my practical skills in action.</p>
 
