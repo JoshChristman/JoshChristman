@@ -25,6 +25,7 @@
 - [CompTIA Network+](https://www.certmetrics.com/comptia/public/verification.aspx?code=1YBDGV50E4KPVHGQ)
 - [CompTIA A+](https://www.certmetrics.com/comptia/public/verification.aspx?code=3646TWL83Q3PV35T)
 - [AWS Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/HKTSPSDBFERQQYSG)
+- [Google IT Support](https://coursera.org/share/2cf5fa9146d881970990644398f6fa3a)
 
 <h2>🤳 Connect with me:</h2>
 
